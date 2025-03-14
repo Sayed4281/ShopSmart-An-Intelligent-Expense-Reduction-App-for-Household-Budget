@@ -1,4 +1,5 @@
-# sinu
+# shopsmart
+
 
 A new Flutter project.
 
